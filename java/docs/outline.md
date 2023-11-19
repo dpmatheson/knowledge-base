@@ -1,4 +1,4 @@
-# Java
+# Outline
 
 - Background
 	- What is Object Oriented Programming?
