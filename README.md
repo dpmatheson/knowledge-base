@@ -3,8 +3,9 @@
 Project for learning examples
 
 ## Languages
-- Java
-- Kotlin
-- Go
-- Python
-- Javascript
+
+* Java
+* Kotlin
+* Go
+* Python
+* Javascript/Typescript
