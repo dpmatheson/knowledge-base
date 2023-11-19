@@ -8,6 +8,7 @@
   * [Background](java/java-core/background/README.md)
     * [What is the JVM?](java/java-core/background/what-is-the-jvm.md)
     * [Java Version History](java/java-core/background/java-version-history.md)
+    * [Test File](java/java-core/background/test-file.md)
 
 ## Python
 
