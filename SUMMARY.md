@@ -9,7 +9,12 @@
 
 ## ☁ Cloud
 
-* [AWS](cloud/aws.md)
+* [AWS](cloud/aws/README.md)
+  * [AWS History](cloud/aws/aws-history.md)
+  * [Regions & AZ](cloud/aws/regions-and-az.md)
+  * [Global Services](cloud/aws/global-services/README.md)
+    * [IAM - Identity & Access Management](cloud/aws/global-services/iam-identity-and-access-management/README.md)
+      * [Policies](cloud/aws/global-services/iam-identity-and-access-management/policies.md)
 
 ## ▶ Go
 
