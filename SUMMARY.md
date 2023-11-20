@@ -2,27 +2,31 @@
 
 * [Knowledge Base](README.md)
 
-## Java
+## ☕ Java
 
 * [Docs](java/docs/README.md)
   * [Outline](java/docs/outline.md)
 
-## Go
+## ☁ Cloud
+
+* [AWS](cloud/aws.md)
+
+## ▶ Go
 
 * [Docs](go/docs/README.md)
 
-## Python
+## 🐍 Python
 
 * [Docs](python/docs/README.md)
 
-## Javascript
+## 🕸 Javascript
 
 * [Docs](javascript/docs/README.md)
 
-## SQL
+## 📀 SQL
 
 * [Docs](sql/docs/README.md)
 
-## Unix
+## 💾 Unix
 
 * [Docs](unix/docs/README.md)
