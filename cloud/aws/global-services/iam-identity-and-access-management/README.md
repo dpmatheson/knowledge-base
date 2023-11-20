@@ -15,3 +15,14 @@
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
+### Guidelines & Best Practices
+
+* Don't use the root account except for AWS account setup
+* One physical user = One AWS user (don't share accounts)
+* Assign users to groups and permissions to groups
+* Strong password policy
+* Use and enforce MFA
+* Create and use Roles for giving permissions to AWS services
+* Use Access Keys for programmatic access (CLI/SDK)
+* Audit permissions of your account using IAM Credentials Report and IAM Access Advisor
+* Never share IAM users & Access Keys

@@ -15,6 +15,10 @@
   * [Global Services](cloud/aws/global-services/README.md)
     * [IAM - Identity & Access Management](cloud/aws/global-services/iam-identity-and-access-management/README.md)
       * [Policies](cloud/aws/global-services/iam-identity-and-access-management/policies.md)
+      * [Roles](cloud/aws/global-services/iam-identity-and-access-management/roles.md)
+      * [Security Tools](cloud/aws/global-services/iam-identity-and-access-management/security-tools.md)
+  * [AWS CLI](cloud/aws/aws-cli.md)
+  * [Shared Responsibility Model](cloud/aws/shared-responsibility-model.md)
 
 ## ▶ Go
 
