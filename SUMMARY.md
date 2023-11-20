@@ -12,13 +12,16 @@
 * [AWS](cloud/aws/README.md)
   * [AWS History](cloud/aws/aws-history.md)
   * [Regions & AZ](cloud/aws/regions-and-az.md)
+  * [Shared Responsibility Model](cloud/aws/shared-responsibility-model.md)
   * [Global Services](cloud/aws/global-services/README.md)
     * [IAM - Identity & Access Management](cloud/aws/global-services/iam-identity-and-access-management/README.md)
       * [Policies](cloud/aws/global-services/iam-identity-and-access-management/policies.md)
       * [Roles](cloud/aws/global-services/iam-identity-and-access-management/roles.md)
       * [Security Tools](cloud/aws/global-services/iam-identity-and-access-management/security-tools.md)
   * [AWS CLI](cloud/aws/aws-cli.md)
-  * [Shared Responsibility Model](cloud/aws/shared-responsibility-model.md)
+  * [Regional Services](cloud/aws/regional-services/README.md)
+    * [EC2](cloud/aws/regional-services/ec2.md)
+  * [Glossary](cloud/aws/glossary.md)
 
 ## ▶ Go
 
