@@ -14,6 +14,7 @@
 
 * EBS: Elastic Block Store
 * EC2: Elastic Cloud Compute
+* EFS: Elastic File System
 * ELB: Elastic Load Balancer
 
 ### F
@@ -76,7 +77,7 @@
 
 ### V
 
-
+* VPC: Virtual Private Cloud
 
 ### W
 
