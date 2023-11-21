@@ -13,7 +13,7 @@
 * &#x20; The policies define permissions of the users
 * Apply the **least privileged principle**; don't give more permissions than a user needs.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Guidelines & Best Practices
 

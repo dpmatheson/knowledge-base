@@ -22,7 +22,7 @@
   * **Resource**: list of resources to which the actions are applied to (\* wildcard can expand to mean any resource, or all resources with a prefix)
   * **Condition**: conditions for when this policy is in effect (optional)
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Password Policy
 

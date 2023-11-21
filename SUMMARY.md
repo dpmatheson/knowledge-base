@@ -23,6 +23,7 @@
     * [EC2](cloud/aws/regional-services/ec2/README.md)
       * [Instance Types](cloud/aws/regional-services/ec2/instance-types.md)
       * [Security Groups](cloud/aws/regional-services/ec2/security-groups.md)
+      * [Connect via SSH](cloud/aws/regional-services/ec2/connect-via-ssh.md)
   * [Glossary](cloud/aws/glossary.md)
 
 ## ▶ Go
