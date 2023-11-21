@@ -2,6 +2,7 @@
 
 ### A
 
+* AMI: Amazon Machine Image
 * ASG: Auto-Scaling Group
 
 ### B
@@ -19,6 +20,8 @@
 
 ### F
 
+* FSR: Fast Snapshot Restore
+
 ### G
 
 ### H
@@ -33,7 +36,7 @@
 
 ### K
 
-
+* KMS: Key Management Service
 
 ### L
 
