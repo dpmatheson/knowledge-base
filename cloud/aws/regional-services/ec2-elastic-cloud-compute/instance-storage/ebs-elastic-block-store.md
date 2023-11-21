@@ -1,4 +1,4 @@
-# Instance Storage
+# EBS - Elastic Block Store
 
 ### EBS - Elastic Block Store
 
@@ -35,7 +35,7 @@
 * gp2:
   * Small gp2 volumes can burst to 3,000 IOPS
   * Size of volume and IOPS are linked, max IOPS is 16,000
-  * 3 IOPS per GB, means at 5, 334GB we are at the max IOPS
+  * 3 IOPS per GB, means at 5,334GB we are at the max IOPS
 
 #### Provisioned IOPS (PIOPS) SSD
 
@@ -88,13 +88,3 @@
   * Specify retention from 1 day to 1 year
 * Fast Snapshot Restore (FSR)
   * Force full initialisation of snapshot to have no latency on the first use (\$$$)
-
-### EC2 Instance Store
-
-* EBS Volumes are network drives with good but limited performance
-* If you need a high performance hardware disk, use EC2 Instance Store
-* Better I/O performance
-* EC2 Instance Store lose their storage if they are stopped (ephemeral)
-* Good for buffer/cache/scratch data/temporary content
-* Risk of data loss if hardware fails
-* Backups & Replication are your responsibility

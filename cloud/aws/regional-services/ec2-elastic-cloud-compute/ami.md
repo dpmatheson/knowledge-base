@@ -3,8 +3,8 @@
 * AMI = Amazon Machine Image
 * AMIs are a customisation of an EC2 Instance
   * You add your own software, configuration, OS, monitoring etc
-  * Faster boot/configuratioj time because all your software and config is pre-packages
-* AMIs are buil for a specific region (and can be copied across regions)
+  * Faster boot/configuration time because all your software and config is pre-packages
+* AMIs are built for a specific region (and can be copied across regions)
 * You can launch EC2 instances from
   * A public AMI: AWS provided
   * Your own AMI: uyou make and maintain them yourself
