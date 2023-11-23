@@ -19,7 +19,7 @@
     * [JVM](java/docs/background/jvm.md)
   * [Java Core](java/docs/java-core.md)
 
-## Kotlin
+## 🤖 Kotlin
 
 * [Docs](kotlin/docs.md)
 
