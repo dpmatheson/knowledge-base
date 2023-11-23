@@ -2,10 +2,26 @@
 
 * [Knowledge Base](README.md)
 
+## 🎓 Programming Theory
+
+* [Data Structures](programming-theory/data-structures.md)
+* [Algorithms](programming-theory/algorithms.md)
+* [Design Patterns](programming-theory/design-patterns.md)
+* [Big-O](programming-theory/big-o.md)
+
 ## ☕ Java
 
 * [Docs](java/docs/README.md)
   * [Outline](java/docs/outline.md)
+  * [Background](java/docs/background/README.md)
+    * [What is Object Oriented Programming?](java/docs/background/what-is-object-oriented-programming.md)
+    * [Java Version History](java/docs/background/java-version-history.md)
+    * [JVM](java/docs/background/jvm.md)
+  * [Java Core](java/docs/java-core.md)
+
+## Kotlin
+
+* [Docs](kotlin/docs.md)
 
 ## ☁ Cloud
 
